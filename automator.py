@@ -4,7 +4,7 @@ from art import tprint
 
 tprint(";-AUTOMATOR-;")
 
-print("              Coded by: Ahmed Tareq\n\n")
+print("                    Coded by: Ahmed Tareq\n\n")
 
 if len(argv) == 1 : print("Please provide the required input file_name and dir_name or file name")
 
